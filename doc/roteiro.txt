@@ -1,0 +1,15 @@
+Roteiro:
+
+0. Instalação do git
+
+1. Configurações iniciais depois da instalação
+
+2. Dando push em um projeto já existente
+
+  2.1 Caso o projeto já exista em um repositório remoto
+
+3. Salvando o estado dos arquivos para dar commit e criando um commit
+
+4. Dando push e lidando com conflitos
+
+* Links úteis (indicações não obrigatórias)
