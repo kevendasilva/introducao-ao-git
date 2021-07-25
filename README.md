@@ -2,7 +2,7 @@
 
 Uma breve introdução ao controle de versão com git.
 
-<img src="img/git.png" style="background-color: white; margin: 30px 20px 0 20px" align="right" width=400 height=auto>
+<img src="img/git.jpg" style="margin: 30px 20px 0 20px" align="right" width=400 height=auto>
 
 ## **0. Instalação do git 🪛**
 
