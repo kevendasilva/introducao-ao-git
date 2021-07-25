@@ -96,9 +96,13 @@ $ git push
 
 ## **Links úteis (indicações não obrigatórias) 👈**
 
+<img src="img/my-octocat.png" align="right" width=120 height=auto>
+
 Vídeo e sites indicados caso queiram saber mais.
+
 
 1. Uma representação gráfica e tutorial do que acontece com o git: https://learngitbranching.js.org/
 2. Documentação sobre criação de mensagens de commits (em inglês): https://chris.beams.io/posts/git-commit/
 3. Documentação oficial do git: https://git-scm.com/doc
 4. Documentação oficial do GitHub: https://docs.github.com/pt/github/getting-started-with-github
+
