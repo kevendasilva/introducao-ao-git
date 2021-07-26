@@ -1,1 +1,1 @@
-puts "Uma simples frase"
+puts "Uma frase"
